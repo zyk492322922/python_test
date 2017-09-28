@@ -1,2 +1,2 @@
 this is just test cmder vi txt    0:02 
-test auto username password
+test auto username password      0:06
